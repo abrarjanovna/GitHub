@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(160, 172, 207);
+}
+
+.card {
+  text-align: center;
+
+}
+
+#inp {
+  border: 2px solid #000;
+  border-radius: 5px;
+  height: 30px;
+  width: 14%;
+}
+
+#inp::placeholder {
+  color: #bababa;
+}
+
+#btn {
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #000;
+  height: 35px;
+  width: 55px;
+}
+
+ul {
+  margin-left: 620px;
+}
+
+li {
+  font-size: 20px;
+  list-style: none;
+  color: #fff;
+}
